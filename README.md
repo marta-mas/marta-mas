@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marta-mas
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning Javascript, HTML and CSS
-- 💞️ I’m looking to collaborate on Javascript projects
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning C#, Javascript, HTML and CSS
+- 💞️ I’m looking to collaborate on C# projects
 - 📫 How to reach me marta.mas.90@gmail.com
 
 <!---
